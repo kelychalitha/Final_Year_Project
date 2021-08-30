@@ -1,6 +1,6 @@
 # Final_Year_Project
 
-==============================================================================================
+============================================================================================
 
 
 
@@ -14,7 +14,9 @@ A website builder basically works:
 2.	Edit your template with editing tools and add your website content to your new website. Such as images, buttons, texts, videos, maps etc. and customized your website.
 3.	Publish your website to the internet
 
-==============================================================================================
-https://vidiwebshop.com/KO7_DEMO/
+============================================================================================
 
 This is the website link. 
+
+https://vidiwebshop.com/KO7_DEMO/
+
